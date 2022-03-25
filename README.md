@@ -7,7 +7,9 @@ The notes are only from Week 1 to Week 3. Feel free to add your notes for furthe
 These are supposed to be a mere starting point. Kindly do not only rely on them.
 
 [DS4Engg_Week1.pdf](https://github.com/KetannChandra/DataScienceForEngineers/files/8354250/DS4Engg_Week1.pdf)
+
 [DS4Engg_Week2.pdf](https://github.com/KetannChandra/DataScienceForEngineers/files/8354248/DS4Engg_Week2.pdf)
+
 [DS4Engg_Week3.pdf](https://github.com/KetannChandra/DataScienceForEngineers/files/8354249/DS4Engg_Week3.pdf)
 
 
